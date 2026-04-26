@@ -41,7 +41,7 @@ Data pipeline design, Azure data stack, multi-agent systems, and getting started
 
 ### 📬 Contact
 
-📧 [yassine.bn@gmail.com](mailto:yassine.bn@gmail.com)
+📧 [yassine.bn@gmail.com](mailto:yassine.bnterras02@gmail.com)
 
 ---
 
@@ -94,8 +94,9 @@ Data pipeline design, Azure data stack, multi-agent systems, and getting started
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-ben&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ben&layout=compact&theme=default&hide_border=true&title_color=0078D4" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Ben-Terras
+  &show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Ben-Terras&layout=compact&theme=default&hide_border=true&title_color=0078D4" width="38%" />
 </p>
 
 ---
