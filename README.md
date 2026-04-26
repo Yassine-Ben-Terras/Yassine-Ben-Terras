@@ -3,10 +3,10 @@
 <h3 align="center">Data Engineering Student · AI & Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:yassine.bn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yassine.bn%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <a href="mailto:yassine.bnterras02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yassine.bnterras02%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yassine-ben&style=for-the-badge&color=0078D4" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yassine-Ben-Terras&style=for-the-badge&color=0078D4" alt="Profile views" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Data pipeline design, Azure data stack, multi-agent systems, and getting started
 
 ### 📬 Contact
 
-📧 [yassine.bn@gmail.com](mailto:yassine.bnterras02@gmail.com)
+📧 [yassine.bnterras02@gmail.com](mailto:yassine.bnterras02@gmail.com)
 
 ---
 
@@ -94,8 +94,7 @@ Data pipeline design, Azure data stack, multi-agent systems, and getting started
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Ben-Terras
-  &show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Ben-Terras&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Ben-Terras&layout=compact&theme=default&hide_border=true&title_color=0078D4" width="38%" />
 </p>
 
