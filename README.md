@@ -1,6 +1,6 @@
 # Yassine Ben Terras
 
-Data and AI Student — passionate about building scalable data systems, AI pipelines, and cloud-native architectures.
+Data and AI master student — passionate about building scalable data systems, AI pipelines, and cloud-native architectures.
 
 ---
 
@@ -13,8 +13,7 @@ Data and AI Student — passionate about building scalable data systems, AI pipe
 - Languages: Python · SQL · Java
 - Data: Spark · Kafka · Airflow · dbt
 - Cloud: Azure · Databricks · Microsoft Fabric
-- AI/ML: Scikit-learn · MLflow · LangChain · langGraph
-- BI: Power BI · Azure Synapse
+- AI/ML: Scikit-learn · LangChain · langGraph · Tensorflow · Pytorch 
 
 **Open to** internships and collaborations in Data Engineering, MLOps, and Cloud.
 
