@@ -13,7 +13,7 @@ Data and AI master student — passionate about building scalable data systems, 
 - Languages: Python · SQL · Java
 - Data: Spark · Kafka · Airflow · dbt
 - Cloud: Azure · Databricks · Microsoft Fabric
-- AI/ML: Scikit-learn · LangChain · langGraph · Tensorflow · Pytorch 
+- AI/ML: Scikit-learn · LangChain · langGraph · Pytorch 
 
 **Open to** internships and collaborations in Data Engineering, MLOps, and Cloud.
 
