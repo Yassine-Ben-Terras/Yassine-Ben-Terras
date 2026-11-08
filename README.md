@@ -1,11 +1,11 @@
 # Yassine Ben Terras
 
-Data and AI master student — passionate about building scalable data systems, AI pipelines, and cloud-native architectures.
+Data engineer — passionate about building scalable data systems, AI pipelines, and cloud-native architectures.
 
 ---
 
 **Currently working on**
-- Real-time data pipelines with Kafka & Spark
+- Real-time data pipelines with Kafka & PySpark
 - Multi-agent AI systems with RAG and LLM orchestration
 - Cloud data platforms on Azure (Fabric, Databricks)
 
