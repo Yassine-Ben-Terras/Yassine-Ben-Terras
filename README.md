@@ -17,6 +17,4 @@ Data engineer — passionate about building scalable data systems, AI pipelines,
 
 **Open to** internships and collaborations in Data Engineering, MLOps, and Cloud.
 
-📧 yassine.bnterras@gmail.com
-
 ---
